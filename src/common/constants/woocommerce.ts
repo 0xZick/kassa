@@ -1,0 +1,1 @@
+export const WOOCOMMERCE_URL = 'https://ayakostiv.wpcomstaging.com/wp-json/wc/v3/'
